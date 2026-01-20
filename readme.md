@@ -22,7 +22,7 @@ The project focuses on understanding how far a **GPT-style architecture** can le
 - **Framework:** PyTorch  
 - **Training Style:** Autoregressive  
 
-The model learns to generate the answer **token-by-token**, similar to GPT-style language models.
+The model learns to generate the answer **token-by-token**, similar to GPT-style language model.
 
 ---
 
